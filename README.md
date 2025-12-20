@@ -1,6 +1,6 @@
 # Hi, I'm Avin!
 ## 🌟 About Me:
-👩🏻‍🎓 Math + CS student @ UBC <br>📚 Currently learning ML <br>🎤 I love music, especially singing! I'm looking forward to collaborate on related projects :)<br>
+👩🏻‍🎓 Math student @ UBC <br>📚 Currently learning ML <br>🎤 I love music, especially singing! I'm looking forward to collaborate on related projects :)<br>
 
 
 ## 🌐 Socials:

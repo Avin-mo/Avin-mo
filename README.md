@@ -1,11 +1,28 @@
-# Hi, I'm Avin!
-## 🌟 About Me:
-👩🏻‍🎓 Math student @ UBC <br>📚 Currently learning ML <br>🎤 I love music, especially singing! I'm looking forward to collaborate on related projects :)<br>
+# Hi, I'm Avin 👋
 
+Math student at UBC, interested in the mathematics of machine learning — expressivity, training dynamics, and optimization.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinmoti_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-motie/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinmotie83@gmail.com) 
+## 🔭 What I'm working on
 
-# 💻 Tech Stack:
-* Programming: Python, C++, Java, javascript
-* Tools: NumPy, Matplotlib, basic SciPy, HTML, CSS
+- **Neural network research** under Dr. Maksym Zubkov's supervision: investigating expressivity and training dynamics of shallow architectures using custom rational activation functions, Jacobian rank analysis, and SVD/PCA on weight trajectories
+- **[nnw_research](https://github.com/Avin-mo/nnw_research)** — reusable PyTorch experimentation pipeline for studying failure modes like neuron death in small networks
+
+## 🛠️ Featured projects
+
+- **Roshan** — Chrome extension with an NLP classifier, FastAPI backend, and OpenAI API integration, built at cmd-f 2026
+- **LASSO optimization** — proximal gradient descent implemented from scratch
+
+## 🧰 Tools & Languages
+
+`Python` `PyTorch` `LaTeX` `FastAPI` `Git`
+
+## 🎵 Outside of code
+
+Member of UBC's a cappella group — into music theory and harmony writing.
+
+## 📫 Reach me
+
+Open to Fall 2026 co-op opportunities in ML / software engineering — feel free to connect on [LinkedIn](#).
+
+---
+⭐️ From [Avin-mo](https://github.com/Avin-mo)
